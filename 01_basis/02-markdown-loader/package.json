@@ -1,0 +1,10 @@
+{
+  "name": "02-markdown-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-loader": "^3.0.1",
+    "marked": "^4.0.0"
+  }
+}
